@@ -2,9 +2,8 @@
   "name": "project1",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    
-    "homepage": "https://github.com/bandarub/React-Redux",
+  "homepage": "https://bandarub.github.io/React-Redux",
+  "dependencies": {    
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
